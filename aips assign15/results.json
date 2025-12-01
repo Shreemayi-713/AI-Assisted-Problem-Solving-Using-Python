@@ -1,0 +1,20 @@
+[
+  {
+    "city": "London",
+    "temp": 11.28,
+    "humidity": 88,
+    "weather": "Overcast clouds"
+  },
+  {
+    "city": "London",
+    "temp": 11.28,
+    "humidity": 88,
+    "weather": "Overcast clouds"
+  },
+  {
+    "city": "London",
+    "temp": 11.28,
+    "humidity": 88,
+    "weather": "Overcast clouds"
+  }
+]
